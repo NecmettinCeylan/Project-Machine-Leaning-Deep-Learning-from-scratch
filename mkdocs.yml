@@ -9,8 +9,6 @@ theme:
     scheme: default
     primary: black
   
-
-
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -18,3 +16,18 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/necmettin-ceylan/
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/NecmettinCeylan
+
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@necocyln
+
+
+copyright: Copyright &copy; 2023-2024 Necmettin Ceylan
