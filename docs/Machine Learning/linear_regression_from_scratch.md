@@ -1,43 +1,43 @@
-# Linear Regression Fram scratch
+
+
+
+![Image title](https://colab.research.google.com/img/colab_favicon.ico){ align=left style="height:30px;width:30px" }
+[**View in Colab**](https://link-url-here.org)
+
+
+
 
 ---
+# Linear Regression Fram scratch
+---
+
+Let's start with simplest case of linear regression which is one dependent variable and one independent variable, simple linear regression. The equation of simple linear regression is given by:
 
 
-## Penates divae
+$$
+y(x) = a + bx 
+$$
 
-Lorem markdownum Iuppiter. Diti hiatu et fingens musco: quot e tantummodo, Luna
-rupit. Languore ignea cum femina quod, duo ignes nitar Phrygiae sontibus.
 
-> Ducat [et quod](http://www.et.com/)! Abit sed via!
+## Dataset
+---
 
-## Conpleat sanguine
+<center>
 
-Pondus fateor ad quicquid Sospite de neganda dolor tecum non, est Euryte illa,
-Chironis illae [modo](http://auro-sic.net/tuae). Nec bipenniferumque horror et
-cetera factus. Dum mente est [ilia](http://nam-non.org/peregitvela.php); nec
-causa sed contra?
+|   index |   feature |   target |
+|--------:|----------:|---------:|
+|       0 | -0.469474 | -9.23956 |
+|       1 | -0.234153 | -3.44105 |
+|       2 | -0.234137 | -5.78107 |
+|       3 | -0.138264 | -3.43807 |
+|       4 |  0.496714 |  8.46012 |
+|       5 |  0.54256  |  7.72548 |
+|       6 |  0.647689 |  9.16405 |
+|       7 |  0.767435 | 13.2115  |
+|       8 |  1.52303  | 28.6429  |
+|       9 |  1.57921  | 28.286   |
 
-## Exilio nunc poterat baculo ferus serpentis congreditur
+</center>
 
-Vos secum oras auditur, tuos cavata nocuit undae *fundebat*. Ore saxo cervus
-terrae iactata natorum, mihi naides inpar. Consultus Diomedis est lecte regina
-aperit? Maris dicenda: retenta tibi suo par, nam violentique mixtae, et augendo
-vires, da. Valens adspicere fata vidit *hanc numina*, dixere adsim illa vix
-gentis mecum dolet!
+Since in the dataset we have y: target and x: feature, the goal is to find the best values for a and b.
 
-## Est nubes sacrum clam lepus vitiatas traxit
-
-Pace hic ait luminis exanimes Morphea Nisus conpellat; latitant temone qualis,
-dicunt nactusque undas ieiunia regna, adest. *Ipso possis oppida* experientis
-sustinet minari usurus tum acres est maxima Cephalum illis abluere nec. Robora
-innuba Aeolon nidum carina contra, contemptoremque adspexit; et unum nunc dedit
-ut remittant.
-
-1. Paelice vulnera
-2. Habeo ducit portus
-3. Praedone debere frondosus conplevit et templa
-
-Quae cultu placido; arcuit stare magni quas miracula terra, et dixit? Despectat
-Iovis, cesserat **exit fulgura talia**, cuncta illa herbae fumantis ictibus.
-[Vola](http://paratissua.org/) utque alvo litus religata fossae, haut qui nunc
-Hecabe.

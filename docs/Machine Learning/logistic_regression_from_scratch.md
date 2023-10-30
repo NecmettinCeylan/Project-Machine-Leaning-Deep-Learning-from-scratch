@@ -1,4 +1,7 @@
-# About
+# Logistic Regression Fram scratch
+
+---
+
 
 ## Penates divae
 
