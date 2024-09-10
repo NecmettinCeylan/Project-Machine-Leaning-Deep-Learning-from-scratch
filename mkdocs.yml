@@ -9,6 +9,8 @@ theme:
     scheme: default
     primary: black
 
+plugins:
+  - blog
 
 markdown_extensions:
   - pymdownx.superfences
@@ -41,8 +43,6 @@ extra:
 
     - icon: fontawesome/brands/medium
       link: https://medium.com/@necocyln
-
-
 
 
 copyright: Copyright &copy; 2023-2024 Necmettin Ceylan
